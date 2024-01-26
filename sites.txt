@@ -45,3 +45,4 @@ https://dmc.lol	David’s website	personal
 https://vzq.lol	jose’s website	personal
 https://vercel.lol the triangle company personal
 https://htxml.lol the triangle company personal
+https://frick.lol max's website personal
